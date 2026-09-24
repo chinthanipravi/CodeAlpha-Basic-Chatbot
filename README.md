@@ -33,4 +33,4 @@ PyBot is a desktop application built with Python's Tkinter framework. It feature
 2. Open your terminal/command prompt in the directory where `complete_app.py` is saved.
 3. Run the following command:
    ```bash
-   python complete_app.py
+   python chatBot.py
